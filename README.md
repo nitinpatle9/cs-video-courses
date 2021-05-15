@@ -218,7 +218,8 @@ Courses
 	- [Informatics 1 - Object-Oriented Programming 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf1op.htm)
 	- [Software Engineering with Objects and Components 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/seoc.htm)
 - **Software Engineering**
-	- [Computer Science 169- Software Engineering - Spring 2015 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCfQHHS7rxlfHFsU4aQW1IF)
+	- [Only our Anil Mokhade's videos are recommended] + JavaTpoint
+	- [Computer Science 169- Software Engineering - Spring 2015 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCfQHHS7rxlfHFsU4aQW1IF) // link doesn't work
 	- [CS 5150 -  Software Engineering, Fall 2014 - Cornell University](http://www.cs.cornell.edu/courses/cs5150/2014fa/materials.html)
 	- [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
 	- [CS 164 Software Engineering - Harvard](http://cs164.tv/2014/spring/)
@@ -370,28 +371,28 @@ Courses
 	- [Probabilistic Modelling and Reasoning 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/pmr.htm)
 	- [Probabilistic Graphical Models, Spring 2018 - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85AcV4bgdu7wHPL37hm60W4RM)
 - **Deep Learning**
-	- [6.S191: Introduction to Deep Learning - MIT](http://introtodeeplearning.com/)
-	- [Deep Learning CMU](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/videos)
-	- [Part 1: Practical Deep Learning for Coders, v3 - fast.ai](https://course.fast.ai/)
-	- [Part 2: Deep Learning from the Foundations - fast.ai](https://course.fast.ai/part2)
-	- [Deep learning at Oxford 2015 - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
-	- [6.S094: Deep Learning for Self-Driving Cars - MIT](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
-	- [CS294-129 Designing, Visualizing and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm))
-	- [CS230: Deep Learning - Autumn 2018 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
-	- [STAT-157 Deep Learning 2019 - UC Berkeley ](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
-	- [Full Stack DL Bootcamp 2019 - UC Berkeley](https://www.youtube.com/playlist?list=PL_Ig1a5kxu5645uORPL8xyvHr91Lg8G1l)
-	- [Deep Learning, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning)
-	- [MOOC - Neural Networks for Machine Learning, Geoffrey Hinton 2016 - Coursera](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
-	- [Deep Unsupervised Learning -- Berkeley Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
-	- [Stat 946 Deep Learning - University of Waterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE)
-	- [Neural networks class - Université de Sherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
-	- [CS294-158 Deep Unsupervised Learning SP19](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos)
-	- [DLCV - Deep Learning for Computer Vision - UPC Barcelona](https://www.youtube.com/playlist?list=PL-5eMc3HQTBavDoZpFcX-bff5WgQqSLzR)
-	- [DLAI - Deep Learning for Artificial Intelligence @ UPC Barcelona](https://www.youtube.com/playlist?list=PL-5eMc3HQTBagIUjKefjcTbnXC0wXC_vd)
-	- [Neural Networks and Applications - IIT Kharagpur](https://nptel.ac.in/courses/117105084/)
-	- [UVA DEEP LEARNING COURSE](http://uvadlc.github.io/#lecture)
+	- [6.S191: Introduction to Deep Learning - MIT](http://introtodeeplearning.com/) // very short description of basics
+	- [Deep Learning CMU](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/videos) // sucks 
+	- [Part 1: Practical Deep Learning for Coders, v3 - fast.ai](https://course.fast.ai/) // too practical
+	- [Part 2: Deep Learning from the Foundations - fast.ai](https://course.fast.ai/part2) // link doesn't work
+	- [Deep learning at Oxford 2015 - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) // missing basic neural algos
+	- [6.S094: Deep Learning for Self-Driving Cars - MIT](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) // too high
+	- [CS294-129 Designing, Visualizing and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)) // missing videos
+	- [CS230: Deep Learning - Autumn 2018 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) // https://cs230.stanford.edu/ // literally has everythin
+	- [STAT-157 Deep Learning 2019 - UC Berkeley ](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) // not recommended 
+	- [Full Stack DL Bootcamp 2019 - UC Berkeley](https://www.youtube.com/playlist?list=PL_Ig1a5kxu5645uORPL8xyvHr91Lg8G1l) // playlist doesn't exist
+	- [Deep Learning, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning) // starts with supervised learning 
+	- [MOOC - Neural Networks for Machine Learning, Geoffrey Hinton 2016 - Coursera](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) // has everything which mam tough but boring zero practical
+	- [Deep Unsupervised Learning -- Berkeley Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) // high 
+	- [Stat 946 Deep Learning - University of Waterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE) // has everything but not practical
+	- [Neural networks class - Université de Sherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)) // starts with feedforward but good short videos 
+	- [CS294-158 Deep Unsupervised Learning SP19](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos) // not related to what we learned 
+	- [DLCV - Deep Learning for Computer Vision - UPC Barcelona](https://www.youtube.com/playlist?list=PL-5eMc3HQTBavDoZpFcX-bff5WgQqSLzR) // only projects 
+	- [DLAI - Deep Learning for Artificial Intelligence @ UPC Barcelona](https://www.youtube.com/playlist?list=PL-5eMc3HQTBagIUjKefjcTbnXC0wXC_vd) // this is what i wanted autoassociative memory not there 
+	- [Neural Networks and Applications - IIT Kharagpur](https://nptel.ac.in/courses/117105084/) // everything but theory , but lecturer is good 
+	- [UVA DEEP LEARNING COURSE](http://uvadlc.github.io/#lecture) // not acc to fauset
 	- [Nvidia Machine Learning Class](https://www.youtube.com/playlist?list=PLTIkHmXc-7an8xbwhAJX-LQ4D4Uf-ar5I)
-	- [Deep Learning - Winter 2020-21 - Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD)
+	- [Deep Learning - Winter 2020-21 - Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD) // very good 
 - **Reinforcement Learning**
 	- [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 	- [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
@@ -412,8 +413,8 @@ Courses
 	- [10-702/36-702 - Statistical Machine Learning - Larry Wasserman, Spring 2016, CMU](https://www.stat.cmu.edu/~ryantibs/statml/) ([Spring 2015](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r))
 	- [10-715 Advanced Introduction to Machine Learning - CMU](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/) ([YouTube](https://www.youtube.com/playlist?list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ))
 	- [CS 281B - Scalable Machine Learning, Alex Smola, UC Berkeley](http://alex.smola.org/teaching/berkeley2012/syllabus.html)
-	- [18.409 Algorithmic Aspects of Machine Learning Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx)
-	- [CS 330 - Deep Multi-Task and Meta Learning - Fall 2019 - Stanford University](https://cs330.stanford.edu/) ([Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5))
+	- [18.409 Algorithmic Aspects of Machine Learning Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx) // not recommended 
+	- [CS 330 - Deep Multi-Task and Meta Learning - Fall 2019 - Stanford University](https://cs330.stanford.edu/) ([Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)) // don't touch
 - **ML based Natural Language Processing and Computer Vision**
 	- [CS 224d - Deep Learning for Natural Language Processing, Stanford University](http://cs224d.stanford.edu/syllabus.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_))
 	- [CS 224N - Natural Language Processing, Stanford University](http://web.stanford.edu/class/cs224n/) ([Lecture videos](https://www.youtube.com/playlist?list=PLgtM85Maly3n2Fp1gJVvqb0bTC39CPn1N))
