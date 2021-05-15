@@ -143,7 +143,7 @@ Courses
 		// very deep don't do it 
 	- [CSE 60641 - Graduate Operating Systems, Fall 08](https://www.youtube.com/view_play_list?p=22B10D854588E20C) // year 2008 poor videos 
 	- [Operating Systems Fundamentals - IIT Kharagpur](https://nptel.ac.in/courses/106/105/106105214/)
-		// for theory absolutely recommended 
+		// for theory absolutely recommended + not boring 
 - **Distributed Systems**
 	- [CS 677 - Distributed Operating Systems, Spring 16 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbC68w0PW3huMHDDRNsDCTjp)
 	- [CS 436 - Distributed Computer Systems - U Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
